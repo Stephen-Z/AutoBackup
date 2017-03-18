@@ -1,0 +1,2 @@
+# AutoBackup
+利用python的apscheduler模块写的数据库定时自动备份脚本
